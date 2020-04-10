@@ -5,6 +5,6 @@
   <body>
     <a href="/a.php">a</a>
     
-    <a href="/b.php">b</b>
+    <a href="/b.php">b</a>
   </body>
 </html>
