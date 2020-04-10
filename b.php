@@ -1,3 +1,7 @@
+<?php
+header('Location: /c.php');
+?>
+
 <html>
   <head>
     <title>test</title>
