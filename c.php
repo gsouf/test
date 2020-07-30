@@ -1,3 +1,2 @@
-<html>
-  foo
-</html>
+<?php
+header('Location: /d.php');
