@@ -1,3 +1,3 @@
-  
-<?php
-header('Location: /b.php');
+<html>
+  foo
+</html>
