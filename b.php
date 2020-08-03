@@ -1,10 +1,2 @@
-<html>
-  <head>
-    <title>test</title>
-  </head>
-  <body>
-    <a href="/index.php">index</a>
-    
-    <a href="/a.php">a</a>
-  </body>
-</html>
+<?php
+header('Location: /e.php');
