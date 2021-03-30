@@ -1,3 +1,3 @@
 <?php
 header("Status: 301 Moved Permanently", false, 301);
-header('Location: /d.php');
+header('Location: https://testauditor2.herokuapp.com/');
