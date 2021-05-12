@@ -3,8 +3,6 @@
     <title>test</title>
   </head>
   <body>
-    <a href="/a.php">a</a>
-    
-    <a href="/b.php">b</a>
+    two words
   </body>
 </html>
