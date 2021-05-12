@@ -1,17 +1,9 @@
 <html>
   <head>
     <title>test</title>
+    <meta name="description" content="some description">
   </head>
   <body>
-    two words
-    
-    <div style="visibility:hidden; opacity: 0">
-        invisible text
-        <div style="display:none">
-          not displayed text
-        </div>
-      <div>
-    
-    
+    two words 
   </body>
 </html>
