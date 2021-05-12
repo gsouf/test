@@ -10,5 +10,6 @@
     <a href="/c.php">link c</a>
     <a href="/d.php">link d</a>
     <a href="/e.html">link e</a>
+    <a href="/f.html">link f</a>
   </body>
 </html>
