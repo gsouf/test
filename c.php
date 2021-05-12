@@ -6,7 +6,11 @@
     two words
     
     <script>
-      hello world
+      hello script
+    </script>
+    
+    <script>
+      hello styles
     </script>
   </body>
 </html>
