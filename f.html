@@ -7,7 +7,9 @@
     </iframe>
     
     <script>
-      document.querySelector('iframe').contentDocument.write("<p>somne iframe content</p>");
+      window.addEventListener("load", function(event) {
+        document.querySelector('iframe').contentDocument.write("<p>somne iframe content</p>");
+      });
     </script>
   </body>
 </html>
