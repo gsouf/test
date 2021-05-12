@@ -3,6 +3,6 @@
     <title>test</title>
   </head>
   <body>
-    <a href="/c.php">index</a>
+    two words
   </body>
 </html>
