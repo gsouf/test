@@ -5,9 +5,10 @@
   <body>
     two words
     
-    <a href="/a.php">link 1</a>
-    <a href="/b.php">link 2</a>
-    <a href="/c.php">link 3</a>
-    <a href="/d.php">link 4</a>
+    <a href="/a.php">link a</a>
+    <a href="/b.php">link b</a>
+    <a href="/c.php">link c</a>
+    <a href="/d.php">link d</a>
+    <a href="/e.html">link e</a>
   </body>
 </html>
