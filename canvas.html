@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>test</title>
+</head>
+<body>
+two words
+
+<canvas id="myCanvas" width="500" height="100"
+        style="border:1px solid #d3d3d3;">
+    Your browser does not support the canvas element.
+</canvas>
+
+<script>
+    var canvas = document.getElementById("myCanvas");
+    var ctx = canvas.getContext("2d");
+    ctx.font = "15px Arial";
+    ctx.fillText("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis arcu orci.",10,50);
+</script>
+
+</body>
+</html>
