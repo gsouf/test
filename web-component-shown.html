@@ -1,0 +1,36 @@
+<html>
+<head>
+    <title>test</title>
+</head>
+<body>
+two words
+
+<script>
+    customElements.define('my-paragraph',
+        class extends HTMLElement {
+            constructor() {
+                super();
+                let template = document.getElementById('my-paragraph');
+                let templateContent = template.content;
+
+                const shadowRoot = this.attachShadow({mode: 'open'})
+                    .appendChild(templateContent.cloneNode(true));
+            }
+        })
+</script>
+
+<template id="my-paragraph">
+    <style>
+        p {
+            color: white;
+            background-color: #666;
+            padding: 5px;
+        }
+    </style>
+    <p>My paragraph</p>
+</template>
+
+<my-paragraph></my-paragraph>
+
+</body>
+</html>
